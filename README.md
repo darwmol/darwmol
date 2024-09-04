@@ -8,7 +8,7 @@
 * Bases de Datos: [MySQL, MongoDB, PostgreSQL, etc.]
 * Metodologías: [Desarrollo Ágil, CI/CD, etc.]
 
-## 💬 Conéctame
+## 💬 Contáctame
 
 Correo Electrónico: [darwmolina@gmail.com]
 
